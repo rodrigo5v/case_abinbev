@@ -4,7 +4,7 @@
 
 # Arquitetura do case
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/4e7a2757-7c4d-4d60-a455-4e20c98b1a7c" alt="Minha Imagem" width="500"/>
+    <img src="https://github.com/user-attachments/assets/9cb8a089-ada4-461a-9e6b-f672071b7c63" alt="Minha Imagem" width="500"/>
 </div>
 
 ## Dependências do projeto
