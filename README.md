@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/b7d9a629-d340-4ba2-a8a5-23d42164b364" alt="Minha Imagem" width="500"/>
+    <img src="https://github.com/user-attachments/assets/876ef67b-1778-429b-8d36-d77f03de9fcd" alt="Minha Imagem" width="500"/>
 </div>
 
 # Arquitetura do case
@@ -61,14 +61,14 @@ Para instalar o Apache Spark será necessário mudar para o usuário root, entã
     mkdir -p /opt/spark
     cd /opt/spark
 
-Acesse [akafa](https://spark.apache.org/downloads.html) e selecione a versão desejada do Apache Spark (em vermelho). Em seguida clique no link apresentado (em preto):
+Acesse https://spark.apache.org/downloads.html e selecione a versão desejada do Apache Spark (em vermelho). Em seguida clique no link apresentado (em preto):
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/2e0cbb2f-f3cb-4a71-9daa-aa0b9b09f287" alt="Minha Imagem" width="500"/>
+    <img src="https://github.com/user-attachments/assets/ceebf3ea-fc38-48c7-874d-a8596567543d" alt="Minha Imagem" width="500"/>
 </div>
 
 Você será redirecionado para outra página. Copie qualquer um dos links (em vermelho):
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/7a91d9b3-e7e8-4b99-bb20-9728e6e2f201" alt="Minha Imagem" width="500"/>
+    <img src="https://github.com/user-attachments/assets/8156b904-2dd3-48a4-a276-cc567319046c" alt="Minha Imagem" width="500"/>
 </div>
 
 No meu caso utilizei a versão **3.5.3 do Apache Spark**, substitua o necessário conforme a versão que foi baixada.
@@ -91,13 +91,13 @@ Obs:
 
 - Ao abrir o arquivo navegue até o final dele, em seguida pressione 'i' no teclado para liberar a escrita no arquivo. Digite o seguinte:
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/815f66e6-9e5e-4634-8443-8aa2fb7ff1d3" alt="Minha Imagem" width="500"/>
+    <img src="https://github.com/user-attachments/assets/55d0ccc4-293a-4fdd-b459-e363c73b1de8" alt="Minha Imagem" width="500"/>
 </div>
 Para finalizar a escrita clique em 'Esc' no teclado e digite ':wq' e aperte o Enter.
 
 Tendo realizado todos os passos corretamente será possível iniciar o spark em sua máquina:
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/6181cb32-c936-4e77-bc82-3fdaa7959135" alt="Minha Imagem" width="500"/>
+    <img src="https://github.com/user-attachments/assets/d425c38d-928d-4935-86d2-7959a630c133" alt="Minha Imagem" width="500"/>
 </div>
 Para sair do spark sheel pressione CTRL + D
 
